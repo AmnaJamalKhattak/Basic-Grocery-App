@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "219180230823",
+    "project_id": "labprojectajk",
+    "storage_bucket": "labprojectajk.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219180230823:android:909626604e8f8164bcd382",
+        "android_client_info": {
+          "package_name": "com.amna.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7klcn1H7a5a2oLx3aD2Y3J-HoQ3PNzF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
